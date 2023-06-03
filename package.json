@@ -1,0 +1,24 @@
+{
+  "name": "temparyum",
+  "version": "0.0.0beta",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild src/index.js --bundle --platform=node --target=node16 --outfile=build/out.js",
+    "build-serve": "npm run build && node build/out.js",
+    "dev": "nodemon --watch src -e js,json --exec npm run build-serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.16.7",
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+  }
+}

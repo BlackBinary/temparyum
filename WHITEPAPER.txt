@@ -1,0 +1,29 @@
+Title: Temparyum - A Secure P2P Network for Efficient and Secure Fund Transfer
+
+Abstract
+
+Temparyum is a novel peer-to-peer (P2P) network that offers a secure and efficient platform for the transfer of funds, smart contract functionality, and data transmission without the limitations of traditional blockchain technology. By utilizing temporary and permanent addresses, file-based funds management, and a distributed verification system, Temparyum aims to provide a lightweight and scalable solution for digital financial transactions.
+
+Introduction
+
+In recent years, blockchain technology has emerged as a popular choice for building secure and decentralized financial networks. However, scalability and efficiency issues have been major challenges in adopting blockchain technology for mainstream usage. Temparyum offers a new approach to building P2P networks that overcomes these challenges and provides a robust and efficient platform for secure fund transfer, smart contract functionality, and data transmission.
+
+Features and Functionality
+
+1. Transfer of Temparyum: Temparyum allows users to transfer funds securely and efficiently through its P2P network. The funds are represented in the form of files that can be spent by users with access to the files, rather than requiring access to a digital wallet.
+
+2. Temporary and Permanent Addresses: In order to enhance privacy and security, Temparyum supports both temporary and permanent addresses. Temporary addresses are used for one-time transactions and are discarded afterwards, ensuring that transaction history cannot be linked to an individual user. Permanent addresses can be used for more long-term use and contract management.
+
+3. Lightweight Smart Contract Functionality: Temparyum incorporates smart contract functionality without the burden of traditional blockchain networks. This ensures faster and more efficient execution of contracts, while still maintaining the integrity and security expected from smart contracts.
+
+4. Double Spend Prevention: To avoid double spending of funds, transferred funds are put on a chain that is not linked to an address. This ensures that transactions are unique and cannot be spent twice.
+
+5. Distributed Verification System: Nodes in the Temparyum network verify transactions and earn rewards in the form of Temparyum tokens. A consensus algorithm ensures fair and even distribution of verification tasks. This distributed system reduces the impact of centralization and enhances the network's performance.
+
+6. Secure and Private Data Transmission: In Temparyum, sent messages are split into parts, which are verified by separate nodes. Once a specific part is verified, it is sent to the recipient node. When all parts are received, they are stitched together, ensuring privacy and integrity in the transmission process.
+
+7. Fee Distribution: Transaction fees are calculated based on the message weight, with a portion of the fee being distributed to the verifying nodes. This incentivizes nodes to participate actively in the verification process and ensures a robust and healthy P2P network.
+
+Conclusion
+
+Temparyum represents a groundbreaking advancement in the realm of P2P financial networks. By offering secure, scalable, and efficient solutions for fund transfer, smart contract functionality, and data transmission, Temparyum addresses the limitations of traditional blockchain technology. As a result, Temparyum has the potential to revolutionize the digital financial landscape and pave the way for a more inclusive and secure digital economy.
